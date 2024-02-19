@@ -1,0 +1,12 @@
+[
+  {
+    "endpoint-datadriven": "api/register/qa",
+    "email-datadriven": "sadakr@email.com",
+    "password-datadriven": "password"
+  },
+  {
+    "endpoint-datadriven": "api/register/reg",
+    "email-datadriven": "jyothi@email.com",
+    "password-datadriven": "jyothi"
+  }
+]
