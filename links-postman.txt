@@ -1,0 +1,4 @@
+https://www.postman.com/product/what-is-postman/
+https://www.postman.com/downloads/
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
